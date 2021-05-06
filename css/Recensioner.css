@@ -1,0 +1,27 @@
+body {
+    background-color: #B0C4DE;
+}
+
+h2 {
+    color: #87CEFA;
+    text-align:center;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    background-color: white;
+
+}
+
+h1 {
+    color: #87CEFA;
+    text-align:center;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-family: Arial black;
+}
+
+p {
+    text-align: center;
+}
+footer {
+    text-decoration: overline;
+    text-align: center;
+    margin-top: 60px;
+}

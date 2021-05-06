@@ -1,0 +1,49 @@
+body {
+    background-color: #B0C4DE;
+}
+
+h1 {
+    color: #87CEFA;
+    text-align:center;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-family: Arial black;
+}
+
+h2 {
+    color: #87CEFA;
+    text-align:center;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    background-color: white;
+
+}
+
+p {
+    text-align: center;
+    margin: 40px;
+   
+}
+
+img {
+    margin: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 5px solid rgb(255, 255, 255);
+  
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+   
+}
+
+footer {
+    text-decoration: overline;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.mat {
+    margin-right: 330px;
+    margin-left: 490px;
+}

@@ -1,0 +1,41 @@
+h1 {
+    color: #87CEFA;
+    text-align:center;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-family: Arial black;
+}
+
+body {
+    background-color: #B0C4DE;
+}
+
+p{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+h2 {
+    color: #87CEFA;
+    text-align:center;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    background-color: white;
+
+}
+
+iframe{
+    width: 1000px;
+    height: 500px;
+    margin-left: 450px;
+    
+}
+
+footer {
+    text-decoration: overline;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.video {
+    margin: auto;
+}
