@@ -20,7 +20,6 @@ h2 {
 p {
     text-align: center;
     margin: 40px;
-    background-color: white;
    
 }
 
@@ -35,6 +34,7 @@ img {
 h3 {
     text-align: center;
     text-decoration: underline;
+    background-color: white;
    
 }
 
