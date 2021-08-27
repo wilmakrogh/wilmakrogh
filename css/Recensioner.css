@@ -19,6 +19,7 @@ h1 {
 
 p {
     text-align: center;
+    text-decoration: underline;
 }
 footer {
     text-decoration: overline;
