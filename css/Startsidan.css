@@ -26,7 +26,8 @@ h2 {
 iframe{
     width: 1000px;
     height: 500px;
-    margin-left: 450px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
@@ -39,3 +40,10 @@ footer {
 .video {
     margin: auto;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
